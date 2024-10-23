@@ -1,0 +1,39 @@
+.tableContainer {
+    margin: 20px auto;
+    max-width: 1000px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+  
+.tempTable {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+  
+.tempTable th {
+    background-color: #ead91cdd;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+  
+.tempTable td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+  
+.tempTable tr:nth-child(even) {
+    background-color: #dfdfdf;
+}
+  
+.tempTable th:first-child {
+    background-color: #3c3c3c;
+    color: white;
+}
+  
+.tempTable td {
+    font-size: 1em;
+}
+  

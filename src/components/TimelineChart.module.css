@@ -1,0 +1,17 @@
+.timelineChartContainer {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timelineLegend {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 16px;
+}
+
+.timelineLegend span {
+  display: inline-block;
+  margin-right: 15px;
+  font-size: 14px;
+}

@@ -1,0 +1,46 @@
+.limitsWrapper {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.limitsContainer {
+  padding: 5px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.limitsContainer h2 {
+  margin: 0;
+  font-size: 1.2em;
+  color: #333;
+  flex-shrink: 0;
+}
+
+.limitsInputs {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  min-width: 120px;
+}
+
+.limitsInputs input {
+  width: 40px;
+  margin: 0 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.eventStatus {
+  font-weight: bold;
+  color: #4caf50;
+  max-width: 120px;
+}
