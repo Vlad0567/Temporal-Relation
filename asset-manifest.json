@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TempRelation/static/css/main.43a5284d.css",
+    "main.js": "/TempRelation/static/js/main.a64b23c8.js",
+    "index.html": "/TempRelation/index.html",
+    "main.43a5284d.css.map": "/TempRelation/static/css/main.43a5284d.css.map",
+    "main.a64b23c8.js.map": "/TempRelation/static/js/main.a64b23c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a5284d.css",
+    "static/js/main.a64b23c8.js"
+  ]
+}
